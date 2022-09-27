@@ -1,2 +1,2 @@
 # Portfolio
-@import "{{slate}}";
+theme:slate
