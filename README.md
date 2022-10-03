@@ -1,11 +1,11 @@
 # Portfolio
 Nature Photography & AI Generated Art
 
-## Photography
+### Nature Photography
 
-### Sunrise and Sunset
+#### Sunrise and Sunset
 
-#### Beautiful Sky Moments in Cerritos
+Beautiful Sky Moments in Cerritos
 
 ![DE9C9178-4980-421D-B28A-06793D669758](https://user-images.githubusercontent.com/101068105/193112698-2d135d92-5f28-4b8b-a2dd-e3c9dfcab1ec.JPG)
 > June 16, 2021 
@@ -26,10 +26,9 @@ Nature Photography & AI Generated Art
 > January 25, 2021
 <br />
 
+#### Flowers
 
-### Flowers
-
-#### Variety of Flowers in Cerritos
+Variety of Flowers in Cerritos
 
 ![9FD90444-9FFB-41A5-824E-C4BE9DFEEF08](https://user-images.githubusercontent.com/101068105/193115318-d87fd979-2b45-4fef-abe1-9a82c03e7a53.JPG)
 > December 11, 2020
@@ -50,8 +49,12 @@ Nature Photography & AI Generated Art
 > December 11, 2020
 <br />
 
+For more photography as well as short films, check out my Instagram page:
+@sabrina.c.wang
+https://www.instagram.com/sabrina.c.wang/
 
-## AI Generated Art
+
+### AI Generated Art
 Using AI art generating programs like Dream, typing in a prompt, and selecting a theme, I can generate my own art!
 
 Prompt: Stormy turquoise sea with dark clouds, bloody moon, and snow
