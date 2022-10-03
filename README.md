@@ -1,6 +1,8 @@
 # Portfolio
 Nature Photography & AI Generated Art
 
+## Photography
+
 ### Sunrise and Sunset
 
 #### Beautiful Sky Moments in Cerritos
@@ -50,3 +52,7 @@ Nature Photography & AI Generated Art
 > 
 > April 8, 2020
 <br />
+
+## AI Generated Art
+Using AI art generating programs
+
