@@ -54,19 +54,22 @@ Nature Photography & AI Generated Art
 ## AI Generated Art
 Using AI art generating programs like Dream, typing in a prompt, and selecting a theme, I can generate my own art!
 
-Prompt: stormy turquoise sea with dark clouds, bloody moon, and snow
+Prompt: Stormy turquoise sea with dark clouds, bloody moon, and snow
 <br />
 Theme: Malevolent
 ![BBD63A62-FD1B-4C40-B5E2-EC9F9BDA9D80_1_105_c](https://user-images.githubusercontent.com/101068105/193697154-03580126-11ac-417f-a505-0d4a5bb58ab4.jpeg)
 
-Prompt: rainbow clouds reflected on lake with boat and autumn trees
+Prompt: Rainbow clouds reflected on lake with boat and autumn trees
 <br />
 Theme: Vibrant
 ![6D2898F6-CCAB-42CB-A332-36D7E3B32239_1_105_c](https://user-images.githubusercontent.com/101068105/193698131-0406d1ca-6f56-4b40-90ea-63df987d10a7.jpeg)
 
-
-Prompt: pastel pink flower and light green leaves
+Prompt: Pastel pink flower and light green leaves
 <br />
 Theme: HD
 ![38CC4DE8-08B6-4858-91CD-8F1C56C963B9_1_105_c](https://user-images.githubusercontent.com/101068105/193698582-b0dd92fa-1c98-4cfa-87cf-cd3f73a39ad7.jpeg)
 
+Prompt: Supernova
+<br />
+Theme: Synthwave
+![E8F2B83F-FD12-475E-8D6B-D8FD251E6E99_1_105_c](https://user-images.githubusercontent.com/101068105/193699184-c85ba878-7daa-4f47-9d95-692a2161aeee.jpeg)
