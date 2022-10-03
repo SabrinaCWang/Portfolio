@@ -53,26 +53,35 @@ For more photography as well as short films, check out my Instagram page:
 @sabrina.c.wang
 https://www.instagram.com/sabrina.c.wang/
 
+***
 
 ### AI Generated Art
 Using AI art generating programs like Dream, typing in a prompt, and selecting a theme, I can generate my own art!
 
-Prompt: Stormy turquoise sea with dark clouds, bloody moon, and snow
+Instead of waiting for the perfect moment or day to catch a photo of the sunrise, I can now generate my own art by deciding on a prompt and a theme. A program like Dream is best for more abstract art and vibrant colors.
+
+**Prompt**: Stormy turquoise sea with dark clouds, bloody moon, and snow
 <br />
-Theme: Malevolent
+**Theme**: Malevolent
+<br />
 ![BBD63A62-FD1B-4C40-B5E2-EC9F9BDA9D80_1_105_c](https://user-images.githubusercontent.com/101068105/193697154-03580126-11ac-417f-a505-0d4a5bb58ab4.jpeg)
 
-Prompt: Rainbow clouds reflected on lake with boat and autumn trees
+**Prompt**: Rainbow clouds reflected on lake with boat and autumn trees
 <br />
-Theme: Vibrant
+**Theme**: Vibrant
+<br />
 ![6D2898F6-CCAB-42CB-A332-36D7E3B32239_1_105_c](https://user-images.githubusercontent.com/101068105/193698131-0406d1ca-6f56-4b40-90ea-63df987d10a7.jpeg)
 
-Prompt: Pastel pink flower and light green leaves
+**Prompt**: Pastel pink flower and light green leaves
 <br />
-Theme: HD
+**Theme**: HD
+<br />
 ![38CC4DE8-08B6-4858-91CD-8F1C56C963B9_1_105_c](https://user-images.githubusercontent.com/101068105/193698582-b0dd92fa-1c98-4cfa-87cf-cd3f73a39ad7.jpeg)
 
-Prompt: Supernova
+**Prompt**: Supernova
 <br />
-Theme: Synthwave
+**Theme**: Synthwave
+<br />
 ![E8F2B83F-FD12-475E-8D6B-D8FD251E6E99_1_105_c](https://user-images.githubusercontent.com/101068105/193699184-c85ba878-7daa-4f47-9d95-692a2161aeee.jpeg)
+
+Both photography (& filmmaking) and AI generated art have their own benefits in different areas of art. Either way, they can both be used to capture or create the most beautiful of moments. Hope you liked my work!
