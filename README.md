@@ -60,7 +60,6 @@ Variety of Flowers in Cerritos
 
 
 For more photography as well as short films, check out my Instagram page:
-</br>
 [@sabrina.c.wang](https://www.instagram.com/sabrina.c.wang/)
 
 ***
